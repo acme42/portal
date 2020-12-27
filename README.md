@@ -4,7 +4,7 @@ See https://stackoverflow.com/questions/65467958/alternative-to-zuul-to-forward-
 
 Open here: https://acme42.github.io/portal/
 
-Sends simple custom JOSN auth tokens to Frontend at http://localhost:8080.
+Sends simple custom JSON auth tokens to Frontend at http://localhost:8080.
 
 For simplification, token just contains the name of the selected user, no decryption or signature. 
 
