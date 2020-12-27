@@ -4,7 +4,7 @@ Open here: https://acme42.github.io/portal/
 
 Sends simple custom JOSN auth tokens to Frontend at http://localhost:8080.
 
-For simplifaction, token just contains the name of the selected user, no decryption or signature. 
+For simplification, token just contains the name of the selected user, no decryption or signature. 
 
 ## Content 
 
