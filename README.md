@@ -1,5 +1,7 @@
 # Super Simplified Single Sign-On Portal as Example for StackOverflow question
 
+See https://stackoverflow.com/questions/65467958/alternative-to-zuul-to-forward-custom-token-stored-in-httpsession-as-request-par
+
 Open here: https://acme42.github.io/portal/
 
 Sends simple custom JOSN auth tokens to Frontend at http://localhost:8080.
